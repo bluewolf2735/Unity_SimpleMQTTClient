@@ -1,7 +1,7 @@
 # Unity_SimpleMQTTClient
 A simple MQTT client that include basic Subscribe, Publish and Reconnect functions. And can also deploy to HoloLens2.
 
-![image](https://github.com/bluewolf2735/Hololens2_GetHandJointPositions/blob/master/GetHandJointPositions.gif)
+![image](SimpleMQTTClient.png)
 
 ## Requirements
 
@@ -13,7 +13,7 @@ A simple MQTT client that include basic Subscribe, Publish and Reconnect functio
 
 ## Usage
 
-Client will try to connect to [Eclipse Mosquitto MQTT server/broker](https://test.mosquitto.org/) automatically when app is launched and publish test payload to topic "MQTTNet_Unity/test" . 
+Client will try to connect to [Eclipse Mosquitto MQTT server/broker](https://test.mosquitto.org/) automatically when app is launched and publish test payload to topic "MQTTNet_Unity/test" .
 
 ## License
 
